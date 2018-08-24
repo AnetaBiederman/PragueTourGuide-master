@@ -1,0 +1,151 @@
+<resources>
+    <string name="app_name">Prague Tour Guide</string>
+
+    //names of activities
+    <string name="monuments_activity">Monuments</string>
+    <string name="restaurants_activity">Restaurants</string>
+    <string name="hotels_activity">Hotels</string>
+    <string name="fun_activity">Fun</string>
+    <string name="detail">Detail</string>
+
+    //data for fragment monuments
+    <string name="bethlehem_chapel">Bethlehem Chapel</string>
+    <string name="bethlehem_chapel_address">Betlemske namesti 255/4, Praha 1</string>
+    <string name="bethlem_chapel_web">https://www.bethlehemchapel.eu/</string>
+    <string name="bethlehem_chapel_des">The Bethlehem Chapel, connected with the activity of Mater John Hus, was founded in 1391. Although it was demolished in 1786, its ground-plan three peripheral walls were preserved. In 1948-1954 the chapel was restored as a monument of the Hussite revolutionary movement. Valuable architectonic details and fragments of inscriptions having been found and restored in the remaining fragments of the original building. The restored Chapel serves as the Assembly hall of the Instituteof Chemical Technology, Chzech Technical Univerzity and Univerzity of John Amos Komenský.</string>
+    <string name="prague_castle">Prague Castle</string>
+    <string name="prague_castle_address">119 08 Praha 1</string>
+    <string name="prague_castle_web">https://www.hrad.cz/en</string>
+    <string name="prague_castle_des">Prague Castle was most likely founded in around 880 by Prince Bořivoj of the Premyslid Dynasty (Přemyslovci). According to the Guinness Book of World Records, Prague Castle is the largest coherent castle complex in the world, with an area of almost 70,000 m². A UNESCO World Heritage site, it consists of a large-scale composition of palaces and ecclesiastical buildings of various architectural styles, from the remains of Romanesque-style buildings from the 10th century through Gothic modifications of the 14th century. The famous Slovenian architect Josip Plečnik was responsible for extensive renovations in the time of the First Republic (1918-1938). Since the Velvet Revolution, Prague Castle has undergone significant and ongoing repairs and reconstructions.</string>
+    <string name="vysehrad">Vyšehrad Castle</string>
+    <string name="vysehrad_address">V pevnosti 16/2, Praha 2</string>
+    <string name="vysehrad_web">http://www.praha-vysehrad.cz/</string>
+    <string name="vysehrad_des">Vyšehrad (Czech for "upper castle") is a historic fort located in the city of Prague, Czech Republic. It was built, probably in the 10th century, on a hill over the Vltava River. Situated within the castle is the Basilica of St Peter and St Paul, as well as the Vyšehrad Cemetery, containing the remains of many famous people from Czech history, among them Antonín Dvořák, Bedřich Smetana, Karel Čapek, and Alphonse Mucha. It also contains one of Pragues oldest surviving buildings, the Rotunda of St Martin from the 11th century. The oldest buildings in Prague are located within Prague Castle. The Basilica St. Martin, which was built from 900-950, and the Church of the Virgin Mary, which was built in the year 870.Local legend holds that Vyšehrad was the location of the first settlement which later became Prague, though thus far this claim remains unsubstantiated.</string>
+    <string name="charles_bridge">Charles Bridge</string>
+    <string name="charles_bridge_address">Karlův most, Praha 1</string>
+    <string name="charles_bridge_web">http://www.prague-bridge.com/</string>
+    <string name="charles_bridge_des">Prague’s oldest bridge was built to replace the Judith Bridge that had been badly damaged by floods in 1342. The Stone, or Prague, Bridge, called Charles Bridge since 1870, was begun in 1357 by Charles IV and was completed in 1402. The bridge is built of sandstone blocks, flanked at each end by fortified towers (Lesser Town Bridge Towers, Old Town Bridge Tower). From 1683 to 1928, 30 statues of saints were carved to decorate the bridge, the most famous of which is the statue of St John of Nepomuk.</string>
+    <string name="old_town_square">Old Town Square</string>
+    <string name="old_time_square_address">Staroměstské nám., Praha 1</string>
+    <string name="old_town_square_web">https://www.prague.eu/cs</string>
+    <string name="old_town_square_des">The most significant square of historical Prague, it was founded in the 12th century and has been witness to many historical events. In addition to the Old Town Hall and the Church of Our Lady before Týn, the square is dominated by the Baroque Church of St Nicholas, the Rococo Kinský Palace, the Gothic House at the Stone Bell and the monument to Jan Hus. In the pavement of the square are memorial stones marking the execution of 27 Czech lords in 1621, and the Prague meridian.</string>
+    <string name="wenceslas_square">Wenceslas Square</string>
+    <string name="wenceslas_square_addess">Václavské nám., Praha 1</string>
+    <string name="wenceslas_web">https://www.prague.eu/cs</string>
+    <string name="wenceslas_des">This square is the commercial and administrative centre of the city as well as the site of important social and historical events. Here you ll find cinemas, theatres, banks, hotels, restaurants, dozens of small and large shops, and administrative centres. The square was created during the founding of the New Town by Charles IV in 1348. Today it is dominated by the National Museum (1885 – 1891) and Josef Václav Myslbeks statue of the national patron St Wenceslas from 1912.</string>
+    <string name="petrin">Petřín Lookout Tower</string>
+    <string name="petrin_address">Petřínské sady 633, Praha 1</string>
+    <string name="petrin_web">https://www.prague.eu/en/object/places/116/petrin-lookout-tower-petrinska-rozhledna</string>
+    <string name="petrin_des">Petřín Lookout Tower, one of the most prominent landmarks of Prague, was built as part of the Jubilee Exhibition in 1891 as a loose copy inspired by the Eiffel Tower (at a ratio of 1:5). It is 63.5 metres high, and 299 steps lead to its peak, which is at the same altitude as the real Eiffel Tower. The view from its top overlooks not only the whole city, but on a clear day you can see nearly all of Bohemia.</string>
+    <string name="national_museum">National Museum</string>
+    <string name="national_museum_address">Václavské nám. 68, Praha 1</string>
+    <string name="national_museum_web">http://www.nm.cz/?xSET=lang&amp;xLANG=2</string>
+    <string name="national_museum_des">The Neo-Renaissance National Museum building is from 1891, and is an important feature of the upper part of Wenceslas Square. Since the time of its construction, it has not been significantly repaired – it was damaged in two military attacks in 1945 and 1968. An on-going extensive renovation aims to save an important national cultural monument and turn it into a modern museum space. The reopening of the museum is planned for 2018.</string>
+    <string name="hvezda">Letohrádek Hvězda</string>
+    <string name="hvezda_address">Obora Hvězda, Praha 6</string>
+    <string name="hvezda_web">http://www.pamatniknarodnihopisemnictvi.cz/letohradek-hvezda/</string>
+    <string name="hvezda_des">Letohrádek Hvězda, translating into English as "Star Villa" or "Star Summer Palace") is a Renaissance villa situated in a game reserve of the same name (Obora Hvězda) in Liboc, Prague 6, 7 kilometres west of Prague city centre.
+The surrounding game reserve was founded in 1530 by King Ferdinand I. Twenty-five years later he commissioned his younger son Ferdinand II, Archduke of Austria, to build the villa. The foundations were laid on 27 June 1555 by the Archduke alone, and construction of the villa was completed three years later. The villa is shaped as a six-pointed star, from which it and the game reserve acquire their shared name.
+In 1962 the villa was listed as a national cultural monument, which it remains today. An exhibition relating to the Battle of White Mountain, which took place nearby, is now on permanent display inside the publicly accessible villa.</string>
+
+    //data for fragment restaurants
+    <string name="la_degustation">La Degustation Bohême Bourgeoise</string>
+    <string name="la_degustation_address">Haštalská 18, Praha 1</string>
+    <string name="la_degustation_web">http://www.ladegustation.cz/en/</string>
+    <string name="la_degustation_des">On a romantic back street in Old Town, this culinary shrine won one of the Czech Republic’s three Michelin stars for its unique style of parading precious locally sourced courses to the table, ranging from snails with leek to carp in almonds and boar nestled in juniper. The small dining room, overseen by star chef Oldrˇich Sahajdák, also decants the finest local pinots and sauvignons.</string>
+    <string name="divinis">Divinis</string>
+    <string name="divinis_address">Týnská 21, Praha 1</string>
+    <string name="divinis_web">http://www.divinis.cz/</string>
+    <string name="divinis_des">American film stars shooting in Prague tend to be a fussy lot - hence, they send them here to feast on chef Zdeněk Pohlreich’s fab creations such as roe deer saddle with mushroom ragout, served up expertly with a glass of good Pinot Grigio from Trentino. Ever redesigning yet ever homely, Divinis is these days surrounded by worthy rivals but it still takes booking well in advance.</string>
+    <string name="cotto_crudo">CottoCrudo</string>
+    <string name="cotto_crudo_address">Veleslavínova 2a, Praha 1</string>
+    <string name="cotto_crudo_web">http://www.cottocrudo.cz/</string>
+    <string name="cotto_crudo_des">This Italian dining room, situated in the Four Seasons hotel, overlooks the Vltava river, where chef Leonardo Di Clemente oversees a top-notch menu of authentic Old World specialities, from beef cheek with juniper berry to cinnamon squab with chestnut puree, along with an excellent list of 360 wines.</string>
+    <string name="aromi">Aromi</string>
+    <string name="aromi_address">Náměstí Míru 6, Praha 2</string>
+    <string name="aromi_web">https://aromi.lacollezione.cz/</string>
+    <string name="aromi_des">Setting the standard for great Italian, this warm-hearted Vinohrady district eatery has moved one metro stop closer to the centre to accommodate its growing local legions of fans. The gracious service and expert rendering of seafood delights arrived in tact; smoked cod with white beans and Guanciale complement the formidable wine list.</string>
+    <string name="v_kolkovne">V Kolkovně</string>
+    <string name="v_kolkovne_address">V kolkovně 8, Praha 1</string>
+    <string name="v_kolkovne_web">http://vkolkovne.cz/</string>
+    <string name="v_kolkovne_des">Part of a group of excellent Czech trad restaurants flying under the Pilsner Urquell beer brand, this buzzing place is well versed in the perfect complement to lager in the form of pork knee, tender ribs, beef goulash with fluffy dumplings or the ultimate Bohemian classic, roast duck with sauerkraut. The old style brewery fittings and vested waiters make for a much-improved, friendlier conception of ye olde Prague cuisine.</string>
+    <string name="hergetova_cihelna">Hergetova Cihelna</string>
+    <string name="hergetova_cihelna_address">Cihelná 2b, Praha 1</string>
+    <string name="hergetova_cihelna_web">http://www.kampagroup.com/en/</string>
+    <string name="hergetova_cihelna_des">Situated on the Vltava riverbank overlooking the Charles Bridge, the terrace here is the place to be on a warm Prague evening. Cuisine is casual, varied and eclectic, making this an international favourite for both splashout meetings and couples – crawfish appetizers are ideal among pals while roast duck with cabbage compote rounds out a hearty. All goes perfectly with excellent Czech beer or Moravian wine. Book terrace tables well ahead or take a chance on one in the “just drinks” section.</string>
+    <string name="café_savoy">Café Savoy</string>
+    <string name="café_savoy_address">Vítězná 5 , Praha 1</string>
+    <string name="café_savoy_web">http://cafesavoy.ambi.cz/en/</string>
+    <string name="café_savoy_des">This old Europe-style left-bank eatery has been lovingly restored to its 19th-century glory, with locals flocking to brunches of fresh breads, Prague ham and creamy coffee beneath the ornate high ceilings. Part of the Czech Ambiente group of restaurants, which have won praise from local and international critics, the Savoy attracts an artsy, bohemian crowd – especially for lunch specials such as smoked meat dumplings and delightful afternoon cake breaks</string>
+    <string name="lokal_dlouha">Lokál Dlouhá</string>
+    <string name="lokal_dlouha_address">Dlouhá 33, Praha 1</string>
+    <string name="lokal_dlouha_web">http://lokal-dlouha.ambi.cz/en/?utm_source=lokal.ambi.cz&amp;utm_medium=web&amp;utm_campaign=crosspromo&amp;utm_content=homepage-box</string>
+    <string name="lokal_dlouha_des">Right in Old Town, this resto is dedicated to reviving the best of Czech trad at prices even local students can afford. Thus, it s in high demand for goulash, pork, dumplings (both bread-based and fruit filled for afters) and a golden pour of pivo, or beer. It’s a bustling but friendly scene day and night, with long, low tables and a truly local crowd.</string>
+    <string name="pho_vietnam">Tuan Lan Pho Vietnam</string>
+    <string name="pho_vietnam_address">Slavíkova 1, Praha 2</string>
+    <string name="pho_vietnam_web">https://www.tripadvisor.com/Restaurant_Review-g274707-d6771511-Reviews-Pho_Vietnam-Prague_Bohemia.html</string>
+    <string name="pho_vietnam_des">Prague’s long-established Vietnamese community has recently enriched the city’s Asian food offerings with cheap and cheerful street-food buffets such as this one, which normally has locals queuing outside the door awaiting steaming bowls of pho bo, a spicy beef noodle soup, or nem lui, the popular fried pork on a stick. It’s standing room inside, mainly, but street tables appear during the spring and summer season.</string>
+    <string name="rugantino">Pizza Rugantino</string>
+    <string name="rugantino_address">Dušní 4, Praha 1</string>
+    <string name="rugantino_web">http://pizzeriarugantino.cz/</string>
+    <string name="rugantino_des">This Old Town institution loves kids and allows them to construct their own pizza, with children’s area front and centre at the restaurant. Pies pretty good by adult standards too.</string>
+
+    //data for fragment hotels
+    <string name="alchymist">Hotel Alchymist</string>
+    <string name="alchymist_address">Trziste 19, Praha 1</string>
+    <string name="alchymist_web">http://www.alchymisthotel.com/en/home.html</string>
+    <string name="alchymist_des">The oldest preserved part of the Dum u Jeziska (House at the Jesus Child) is the rear part of the structure facing the courtyard. The lower part of the original tower structure could date from the fortification of the Lesser Town in 1257, the oldest Premyslid fortification. This tower, which later underwent a Baroque adaptation, is decorated between the second-floor windows with a very well preserved polychrome relief sculpture of Our Lady of Loretto.</string>
+    <string name="savic">Hotel Savic</string>
+    <string name="savic_address">Jilska 7, Praha 1</string>
+    <string name="savic_web">https://www.savic.eu/</string>
+    <string name="savic_des">The Savic hotel is situated in the heart of the city centre at Old Town Square, just a few steps away, on the cobbled streets near the famous "Astronomical Clock". It is surrounded by the most significant historical landmarks of Prague, like the Charles Bridge, the National Theatre and the Wenceslas Square.</string>
+    <string name="residence_malostranska">Residence Malostranska</string>
+    <string name="residence_malostranska_address">Malostranske namesti 24/38, Praha 1</string>
+    <string name="residence_malostranska_web">http://www.residence-malostranska.com/</string>
+    <string name="residence_malostranska_des">Luxury hotel Residence Malostranská offers its services to the most discerning clients. We have three types of luxury suites: Studio, Family and Presidential Suites. Your accommodation will be right underneath the Prague Castle on Malostranské náměstí (Lesser Town Square). Some of Prague’s best historical attractions such as the Charles Bridge, Prague Castle and Old Town Square are right around the corner.</string>
+    <string name="albatros">Botel Albatros</string>
+    <string name="albatros_address">Nabrezi L. Svobody, Praha 1</string>
+    <string name="albatros_web">http://www.hotelalbatros.cz/en/</string>
+    <string name="albatros_des">Botel Albatros is located at the edge of the Old Town of Prague - only a few minutes walking from the Old Town Square. A panoramic view of Prague Castle, unique accommodation and our location on the river combine to offer our guests a romantic holiday in close proximity to the city centre.</string>
+
+    // data for fragment fun
+    <string name="bobsleigh">Bobsleigh</string>
+    <string name="bobsleigh_address">Prosecká 906/34b, Praha 9</string>
+    <string name="bobsleigh_web">http://www.bobovadraha.cz/</string>
+    <string name="bobsleigh_des">Enjoy the thrills and spills of the Prague Bobsleigh, riding up to 62km per hour down an 800m track. The track has several special features, including eight curves and several humps.
+Duration: 3-4½ hours. Operates all year.</string>
+    <string name="beer_tasting">Czech Beer Tasting</string>
+    <string name="beer_tasting_address">Americká 341/43, Praha 2</string>
+    <string name="beer_tasting_web">http://www.praguebeermuseum.cz/en/</string>
+    <string name="beer_tasting_des">Czech Republic is famous around the world for its beers. It`s more than a drink, it is a part of the culture of Bohemia, it is passion. Beside the world famous large brands, the country is brimming with microbreweries and new craft beers are surfacing every day. For a new beer to succeed in that vibrant environment, beside quality, it must bring innovation.
+
+Beer Museum is dedicated to bringing our customers the selection of finest beers.
+
+We serve 30 beers on tap.
+
+We strive to keep up with newest beer trends, as we frequently update our beer menu.</string>
+    <string name="karting">Karting</string>
+    <string name="karting_address">Jiriho ze Vtelna 1731, Praha 9/</string>
+    <string name="karting_web">http://www.pragaarena.com/</string>
+    <string name="karting_des">We’ve opened a unique new go-cart arena in Horní Počernice in Prague, which is one of the most modern go-cart arenas in Czech Republic. With us you can become a real racing driver!
+
+In order to ensure your driving experience is unforgettable, of maximum importance to us is safety, professional support and supervision of the circuit. For your upmost comfort we’ve prepared a restaurant serving grilled specialties and various drinks amongst others./</string>
+    <string name="balloon">Hot Air Balloon Flight</string>
+    <string name="balloon_address">K Červenému dvoru 26, Prague 3</string>
+    <string name="balloon_web">http://balloonadventures.cz/</string>
+    <string name="balloon_des">Combine your trip to Prague with an unforgettable experience, a flight in a hot air balloon. An ideal excursion for a romantic couple, but equally a fun packed group activity for up to 50 people.
+Duration: 4 hours. Flight time: 1 hour. Operates all year.</string>
+
+
+    // names of variables
+    <string name="name_var">placeName</string>
+    <string name="address_var">placeAddress</string>
+    <string name="desc_var">placeDescription</string>
+    <string name="img_var">placeImage</string>
+    <string name="audio_var">placeAudio</string>
+    <string name="site_var">placeSite</string>
+    <string name="loc_var">placeLocation</string>
+    <string name="color_var">color</string>
+
+
+</resources>

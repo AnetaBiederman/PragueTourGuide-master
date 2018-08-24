@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+
+<LinearLayout
+    android:id="@+id/detail_container"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/categoryMonuments">
+
+    <ImageView
+        android:id="@+id/detail_picture"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/bethlehem_chapel"/>
+
+    <TextView
+        android:id="@+id/detail_item_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/bethlehem_chapel"
+        android:layout_margin="@dimen/margin"
+        android:gravity="center"
+        android:textAppearance="?android:textAppearanceLarge"
+        android:textStyle="bold"
+        android:textColor="@color/textColor"/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/margin">
+
+        <ImageView
+            android:id="@+id/icon_location"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:src="@drawable/location"/>
+
+        <TextView
+            android:id="@+id/detail_address"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/bethlehem_chapel_address"
+            android:layout_toRightOf="@id/icon_location"
+            android:paddingLeft="@dimen/padding"
+            android:textColor="@color/textColor"/>
+
+        <ImageView
+            android:id="@+id/icon_website"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_below="@id/icon_location"
+           android:layout_marginTop="@dimen/margin"
+            android:src="@drawable/website"/>
+
+        <TextView
+            android:id="@+id/detail_website"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="website"
+            android:layout_marginTop="@dimen/margin"
+            android:layout_toRightOf="@id/icon_website"
+            android:layout_below="@id/detail_address"
+            android:paddingLeft="@dimen/padding"
+            android:textColor="@color/textColor"/>
+    </RelativeLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Description:"
+        android:layout_marginLeft="@dimen/margin"
+        android:textColor="@color/textColor"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:id="@+id/detail_description"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/margin"
+        android:text="@string/bethlehem_chapel_des"
+        android:textColor="@color/textColor"/>
+    </LinearLayout>
+</ScrollView>
